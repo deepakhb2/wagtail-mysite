@@ -1,0 +1,2 @@
+# wagtail-mysite
+Wagtail project
